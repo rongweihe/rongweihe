@@ -7,5 +7,3 @@
 - 😄 有问题欢迎知乎 [@herongwei](https://www.zhihu.com/people/herongwei)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rongweihe&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rongweihe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
