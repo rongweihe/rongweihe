@@ -7,6 +7,4 @@
 ### Hi 我是程序员贺同学 👋
 
 - 🔭 ex ByteDance，目前 Web3 工程师，热爱生活，热爱编程
-- 🤔 个人博客：[herongwei](https://herongwei.me/)
 - 📫 微信：icoredump
-- 😄 有问题欢迎知乎 [@herongwei](https://www.zhihu.com/people/herongwei)
