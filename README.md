@@ -6,5 +6,6 @@
 
 ### Hi 我是程序员贺同学 👋
 
-- 🔭 ex ByteDance，目前 Web3 工程师，热爱生活，热爱编程
+- 🔭 ex ByteDance，目前 Web3 工程师
+- 🚀 热爱生活，热爱编程，热爱美好的事情
 - 📫 微信：icoredump
